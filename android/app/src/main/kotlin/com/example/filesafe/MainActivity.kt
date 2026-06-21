@@ -1,0 +1,5 @@
+package com.example.filesafe
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
